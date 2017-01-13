@@ -127,7 +127,7 @@ body {
 
 .content--search {
 	position: relative;
-	width: 77%;
+	width: 55%;
 	margin: 3em 0 0 3em;
 	float: left;
 }
@@ -155,8 +155,8 @@ body {
 
 .pokemons {
 	position: relative;
-	width: 14%;
-	margin: 2em 0 0 2em;
+	width: 30%;
+	margin: 0.5em 0 0 3em;
 	float: left;
 }
 
@@ -173,6 +173,7 @@ body {
 }
 
 .pokemons #pokeType {
+	width: 175px;
 	margin: 0 5em 0 0;
 	float: left;
 }
